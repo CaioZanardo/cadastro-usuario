@@ -10,15 +10,15 @@
 
 - Clicar no botão "Cadastrar";
 
-![PRINT!](inicio.png)
+![PRINT!](tinicial.png)
 
 - Preencher informações e clicar no botão "Cadastrar";
 
-![PRINT!](preencher.png)
+![PRINT!](preenche.png)
 
 - Para Editar ou Excluir um cadastro só utilizar os botões no canto direito da tela;
 
-![PRINT!](cadastro.png)
+![PRINT!](cadastrado.png)
   
 ## Grupo do CheckPoint
 
