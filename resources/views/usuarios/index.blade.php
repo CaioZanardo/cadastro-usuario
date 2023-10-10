@@ -32,5 +32,6 @@
             @endforeach
         </tbody>
     </table>
+    <a href="{{ route('usuarios.create') }}" class="btn btn-success">Cadastrar</a>
 </div>
 @endsection
