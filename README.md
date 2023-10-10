@@ -8,7 +8,7 @@
 
 ## Modo de uso
 
-- Clicar "Cadastrar Usuário";
+- Clicar no botão "Cadastrar";
 
 ![PRINT!](inicio.png)
 
